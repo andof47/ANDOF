@@ -1,0 +1,5 @@
+{
+  "name": "Remix: VoxMind LEITOR TRADUTOR CONVERSOR  ",
+  "description": "An intelligent text reader that transforms written content into natural-sounding audio using AI. Features include text summarization, voice selection, and adjustable playback speed for a personalized listening experience.",
+  "requestFramePermissions": []
+}
